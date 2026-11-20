@@ -1,0 +1,8 @@
+{
+  "name": "Remix CRES — Car Rental Ecosystem",
+  "description": "Managed vehicle rental ecosystem in Addis Ababa, Ethiopia delivering dual GPS security, 24-hour monitoring, verified renters, and transparent fee management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
